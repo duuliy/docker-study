@@ -44,7 +44,7 @@ $ docker login
 $ docker push <login-name>/cheers2019
 ```
 
-### 7. 列出本机的所有 image 文件。
+### 7. 列出本机的所有 image 文件
 
 ```bash
 $ docker image ls
@@ -62,7 +62,7 @@ $ docker image rm [imageName]
 $ docker image pull hello-world
 ```
 
-### 10. 运行这个 image 文件。
+### 10. 运行这个 image 文件
 
 ```bash
 $ docker container run hello-world
